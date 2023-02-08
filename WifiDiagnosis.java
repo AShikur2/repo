@@ -1,3 +1,15 @@
+/*
+ * Class: CMSC203 
+ * Instructor: Ahmed Tarek
+ * Description: A program that will guide you step by step on multiple ways of fixing the internet connection.
+ * Due: 2/07/2023
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming assignment independently.
+   I have not copied the code from a student or any source.
+   I have not given my code to any student.
+   Print your Name here: Abass Shikur
+*/
+
 import java.util.Scanner;
 public class WifiDiagnosis {
 	public static void main(String[] args) { //Main Method
